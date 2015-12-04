@@ -1,0 +1,47 @@
+[Entry]
+Type=Book
+CallNum=9090
+Authors=Joe
+Title=Mikes Hard Lemonaide
+Publisher=N/A
+Year=2004
+
+[Entry]
+Type=Journal
+CallNum=4545
+Title=Ripleys Believe it Or Not
+Orginization=N/A
+Year=2004
+
+[Entry]
+Type=Book
+CallNum=3456
+Authors=N/A
+Title=The Great Gatsby
+Publisher=N/A
+Year=2001
+
+[Entry]
+Type=Book
+CallNum=99090
+Authors=Paul
+Title=How to Java
+Publisher=Nathan Reymer Co.
+Year=2013
+
+[Entry]
+Type=Book
+CallNum=12345
+Authors=N/A
+Title=First Gui Test
+Publisher=N/A
+Year=1013
+
+[Entry]
+Type=Book
+CallNum=12345
+Authors=N/A
+Title=Bacon
+Publisher=N/A
+Year=2009
+
